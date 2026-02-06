@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "hollow-mode",
-      "source": ".",
+      "source": "./",
       "description": "TDD scaffolding with empty implementations for learning - creates tests and empty stubs without filling in code",
       "version": "1.0.0",
       "author": {
