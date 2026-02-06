@@ -1,0 +1,13 @@
+{
+  "name": "hollow-mode",
+  "description": "TDD scaffolding with empty implementations for learning - creates tests and empty stubs without filling in code",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alan Jones",
+    "email": "alan@jonezzyboy.com"
+  },
+  "homepage": "https://github.com/Jonezzyboy/hollow-mode",
+  "repository": "https://github.com/Jonezzyboy/hollow-mode",
+  "license": "MIT",
+  "keywords": ["tdd", "learning", "education", "testing", "scaffolding", "practice", "exercises"]
+}
